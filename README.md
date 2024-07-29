@@ -24,7 +24,7 @@ Check for the `db_config.php` file in the `requires` folder and modify it to mat
 
 ```php
 <?php
-define("DB_NAME", 'php_chat');
+    define("DB_NAME", 'php_chat');
     define("DB_HOST", 'localhost');
     define("DB_USER", 'root');
     define("DB_PASS", '');
