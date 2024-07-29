@@ -1,13 +1,13 @@
 ## PHP & AJAX Chat App 
----
-##Prerequsites
+
+### Prerequsites
 - PHP installed on your local machine
 - MySQL installed on your local machine
 - A web server like Apache or Nginx (XAMPP or WAMP recommended for Windows users)
 
 ---
 
-#### Steps to Run the Application
+#### How to Run the Application
 
 1. **Clone the Repository**
    ```sh
