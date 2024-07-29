@@ -11,7 +11,7 @@
 
 1. **Clone the Repository**
    ```sh
-   git clone <git remote add origin https://github.com/AmazingJoMax/PHP-AJAX-Chat.git>
+   git clone git remote add origin https://github.com/AmazingJoMax/PHP-AJAX-Chat.git
    cd <repository-directory>
 
 2. **Setting Up The Database**
